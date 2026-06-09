@@ -519,7 +519,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "CELL 1"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -669,7 +674,7 @@
         "uuid": "d08769d3-d47d-4f99-97ca-76019da291d6"
       }
     ],
-    "used_designators": "J2,J4,U3",
+    "used_designators": "J2,J4,U3,RBAT+1,RBAT\\-1",
     "variants": []
   },
   "sheets": [
